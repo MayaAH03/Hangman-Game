@@ -4,11 +4,11 @@ To run this game locally, follow these steps:
 
 ## Clone the repository:
 
-git clone https://github.com/sugarcane1001/Codedex-Hackathon-2024
+git clone https://github.com/MayaAH03/Hangman-Game.git
 
 ## Navigate to the project directory and install dependencies:
 
-cd hangman-game
+cd hangman-game <br>
 npm install
 
 ## Start the development server:
