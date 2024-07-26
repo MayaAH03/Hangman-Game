@@ -1,7 +1,7 @@
-
+<div align="center">
 <img  width="auto" height="250"  src="https://i.imgur.com/ltZF5DQ.png"> <img width="auto" height="250" src="https://i.imgur.com/FcD7usJ.png">
 
-
+</div>
 
 ## Hangman Game
 This web application is made with TypeScript and React. <br />
